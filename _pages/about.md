@@ -68,14 +68,19 @@ Yingjian Li, **Yushi Zeng**, Dongmei Jiang, Yaowei Wang, Guangming Lu
 
 [A knowledge-enhanced and topic-guided domain adaptation model for aspect-based sentiment analysis](https://ieeexplore.ieee.org/abstract/document/10172275)
 
-**Yushi Zeng**, Guohua Wang, Haopeng Ren, Yi Cai, Ho-Fung Leung, Qing Li
+**Yushi Zeng**, Guohua Wang, Haopeng Ren, Yi Cai, Ho-Fung Leung, Qing Li, Qingbao Huang
 
 </div>
 </div>
 
 
-- [Class-Incremental Cloud-Device Collaborative Adaptation With Contrastive Learning in Dynamic Changing Environments](), Yushi Zeng, Haopeng Ren, Yi Cai, Yingjian Li, Yaowei Wang, Qing Li. **TNNLS 2026**.
-- [Class-Incremental Cloud-Device Collaborative Adaptation With Contrastive Learning in Dynamic Changing Environments](), Yushi Zeng, Haopeng Ren, Yi Cai, Yingjian Li, Yaowei Wang, Qing Li. **TNNLS 2026**.
+- [MPPQA: Structure-Aware Extractive Multi-span Question Answering for Procedural Documents](https://link.springer.com/chapter/10.1007/978-981-97-9431-7_10), Bihan Zhou, Haopeng Ren, Yi Cai, Zetao Lian, Pinli Zhu, **Yushi Zeng**. **NLPCC 2024**.
+- [Grounded multimodal procedural entity recognition for procedural documents: a new dataset and baseline](https://aclanthology.org/2024.lrec-main.702.pdf), Haopeng Ren, **Yushi Zeng**, Yi Cai, Zhenqi Ye, Li Yuan, Pinli Zhu. **COLING 2024**.
+- [Constructing procedural graphs with multiple dependency relations: A new dataset and baseline](https://aclanthology.org/2023.findings-acl.536.pdf), Haopeng Ren, **Yushi Zeng**, Yi Cai, Bihan Zhou, Zetao Lian, **ACL 2023**
+- [Aspect-opinion correlation aware and knowledge-expansion few shot cross-domain sentiment classification](https://ieeexplore.ieee.org/abstract/document/9882094), Haopeng Ren, Yi Cai, **Yushi Zeng**, Jinghui Ye, Ho-fung Leung, Qing Li. **TAC 2022**
+- [Enhance cross-domain aspect-based sentiment analysis by incorporating commonsense relational structure (Student Abstract)](https://ojs.aaai.org/index.php/AAAI/article/download/21689/21438), **Yushi Zeng**, Guohua Wang, Haopeng Ren, Yi Cai, **AAAI 2022**
+- [Aspect-opinion sentiment alignment for cross-domain sentiment analysis (student abstract)](https://ojs.aaai.org/index.php/AAAI/article/view/21653/21402), Haopeng Ren, Yi Cai, **Yushi Zeng**, **AAAI 2022**
+
 
 
 # 🎖 Honors and Awards
