@@ -85,7 +85,8 @@ Yingjian Li, **Yushi Zeng**, Dongmei Jiang, Yaowei Wang, Guangming Lu
 # 🎖 Honors and Awards
 - 2023 Wuliangye Outstanding Student Scholarship
 - 2022 National Scholarship and Principle's scholarship First Prize
-- 2021 AAAI Student Scholoarship Program Scholarship 
+- 2021 AAAI Student Scholoarship Program Scholarship
+- 2016-2020 Outstanding Graduate Student at the School Level (Top 5%)
 
 # 📖 Educations
 - *2023.06 - (now)*, Future Technology, South China University of Technology, Guangdong Guangzhou, China, phD  
