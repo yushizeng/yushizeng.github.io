@@ -34,7 +34,7 @@ You can find my CV here: [Yushi Zeng's Curriculum Vitae](../assets/CV_Zeng.pdf).
 
 # 📝 Publications 
 - 🎓During My Master's Research Program
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IPM 2026</div><img src='images/ipm' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IPM 2026</div><img src='images/ipm.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Modality augmentation and task-aware dual-modal LoRAs for multi-task multimodal federated learning](https://www.sciencedirect.com/science/article/abs/pii/S0306457325005424)
@@ -44,7 +44,7 @@ You can find my CV here: [Yushi Zeng's Curriculum Vitae](../assets/CV_Zeng.pdf).
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IPM 2026</div><img src='images/rethinking.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCSVT 2026</div><img src='images/rethinking.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Rethinking the Knowledge Gap between Cloud and Device Models for Effective Co-Adaptation](https://ieeexplore.ieee.org/document/11424628)
@@ -54,7 +54,7 @@ Yingjian Li, **Yushi Zeng**, Dongmei Jiang, Yaowei Wang, Guangming Lu
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IPM 2026</div><img src='images/rethinking.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TNNLS 2026</div><img src='images/tnnls.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Class-Incremental Cloud-Device Collaborative Adaptation With Contrastive Learning in Dynamic Changing Environments](https://ieeexplore.ieee.org/abstract/document/11395537)
@@ -62,7 +62,8 @@ Yingjian Li, **Yushi Zeng**, Dongmei Jiang, Yaowei Wang, Guangming Lu
 **Yushi Zeng**, Haopeng Ren, Yi Cai, Yingjian Li, Yaowei Wang, Qing Li
 </div>
 </div>
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IPM 2026</div><img src='images/rethinking.png' alt="sym" width="100%"></div></div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TAC 2026</div><img src='images/sentiment.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [A knowledge-enhanced and topic-guided domain adaptation model for aspect-based sentiment analysis](https://ieeexplore.ieee.org/abstract/document/10172275)
