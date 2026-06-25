@@ -33,7 +33,6 @@ You can find my CV here: [Yushi Zeng's Curriculum Vitae](../assets/CV_Zeng.pdf).
 - 
 
 # 📝 Publications 
-- 🎓During My Master's Research Program
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IPM 2026</div><img src='images/ipm.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
