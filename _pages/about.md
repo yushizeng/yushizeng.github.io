@@ -48,7 +48,7 @@ You can find my CV here: [Yushi Zeng's Curriculum Vitae](../assets/CV_Yushi.pdf)
 
 [Rethinking the Knowledge Gap between Cloud and Device Models for Effective Co-Adaptation](https://ieeexplore.ieee.org/document/11424628)
 
-Yingjian Li, **Yushi Zeng**, Dongmei Jiang, Yaowei Wang, Guangming Lu
+Yingjian Li(Supervisor), **Yushi Zeng**, Dongmei Jiang, Yaowei Wang, Guangming Lu
 
 </div>
 </div>
