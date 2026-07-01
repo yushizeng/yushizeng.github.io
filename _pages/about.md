@@ -22,7 +22,7 @@ I am now the third-year PhD student in the School of Software at South China Uni
 
 My research interests primarily focus on sentiment analysis, knowledge graph, federate learning and multimodal learning. Currently, I am deeply involved in specific projects related to cloud-device collaboration and knowledge distillation for my PhD research.
 
-You can find my CV here: [Yushi Zeng's Curriculum Vitae](../assets/CV_Zeng.pdf). If you are interested in my work, please feel free to drop me an [email](mailto:yushi_znn@foxmail.com).
+You can find my CV here: [Yushi Zeng's Curriculum Vitae](../assets/CV_Yushi.pdf). If you are interested in my work, please feel free to drop me an [email](mailto:yushi_znn@foxmail.com).
 
 
 
