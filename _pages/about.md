@@ -94,9 +94,9 @@ Yingjian Li(Supervisor), **Yushi Zeng**, Dongmei Jiang, Yaowei Wang, Guangming L
 - *2016.09 - 2020.06*, Software Engineering, Jishou University, Zhangjiajie, Hunan, China
 
 # 💬 Invited Talks
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2022.05</div><img src='images/aitime.JPG' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [AI Time Report](https://www.aitime.cn/)
 </div>
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2022.05</div><img src='images/aitime.JPG' alt="sym" width="100%"></div></div>
 
 
