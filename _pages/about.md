@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # Welcome! 
-I am now the fourth-year PhD student in the School of Software at South China University of Technology (SCUT). I'm under the supervision of [Prof.Yi Cai](https://www2.scut.edu.cn/sse/2018/0615/c16788a270751/page.htm). 
+I am now a fourth-year PhD student in the School of Software at South China University of Technology (SCUT), under the supervision of [Prof.Yi Cai](https://www2.scut.edu.cn/sse/2018/0615/c16788a270751/page.htm). 
 
 My research interests primarily focus on sentiment analysis, knowledge graph, federate learning and multimodal learning. Currently, I am deeply involved in specific projects related to cloud-device collaboration and knowledge distillation for my PhD research.
 
