@@ -83,10 +83,15 @@ Yingjian Li(Supervisor), **Yushi Zeng**, Dongmei Jiang, Yaowei Wang, Guangming L
 
 
 # 🎖 Honors and Awards
+- 2025 Outstanding Student, 2025 Tencent Rhino-Bird Open Source Talent Development Program
 - 2023 Wuliangye Outstanding Student Scholarship
 - 2022 National Scholarship and Principle's scholarship First Prize
-- 2021 AAAI Student Scholoarship Program Scholarship
-- 2016-2020 Outstanding Graduate Student at the School Level (Top 5%)
+- 2022 First-Class Postgraduate Scholarship
+- 2022 AAAI Student Scholoarship Program Scholarship
+- 2022 Certificate of Completion, Summer Research Experience Programme for Mainland and Taiwan Students, The Chinese University of Hong Kong
+- 2017--2020 First-Class and Second-Class Scholarships, Jishou University (Awarded over Four Consecutive Years)
+- 2020 Outstanding Graduate Student at the School Level (Top 5%)
+- 2019 Third Prize, The 10th Lanqiao Cup National Software and Information Technology Competition
 
 # 📖 Educations
 - *2023.06 - (now)*, Future Technology, South China University of Technology, Guangdong Guangzhou, China, phD  
